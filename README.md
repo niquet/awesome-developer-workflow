@@ -49,8 +49,18 @@ Make updating user profile something faster, easier and intuitive by using Drag 
 - 
 
 ## Example Workflow
+- Task
+- Clarify
+- Estimate
+- Prioritize
+- Do
+- 
 
 ## Tips and Tricks
+- GitHub Flow
+- Getting Things Done
+- Focusing
+- Getting Unstuck
 
 ### Time Management
 ### Prioritization
