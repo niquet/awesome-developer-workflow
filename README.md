@@ -54,7 +54,24 @@ Make updating user profile something faster, easier and intuitive by using Drag 
 - Estimate
 - Prioritize
 - Do
-- 
+
+Problem-Solving Workflow
+- Listen carefully ➡️ Pay close attention to any information given in the problem description
+- Draw an example ➡️ Most examples are too small or special cases; debug your example
+- State a Brute Force ➡️ State a naive algorithm and its runtime as soon as possible; optimize from there; do not code yet
+- Optimize ➡️ Walk through the brute force with BUD optimization or
+    - Look for any unused information
+    - Solve it manually on an example; then reverse engineer your thought process
+    - Solve it “incorrectly”; then think about why the algorithm fails
+    - Make a time versus space tradeoff; Hash tables are especially useful
+- Walk Through ➡️ Walk through your optimal approach in detail; make sure to understand each detail before you start
+- Implement ➡️ Write beautiful code; modularize your code from the beginning; refactor to clean up anything that is not beautiful
+- Test ➡️ Test in this order:
+    - Conceptual test: Walk through your code like you would for a detailed code review
+    - Unusual or non-standard code
+    - Hot spots: E.g. arithmetic and null nodes
+    - Small test cases: Much faster than a big test case; just as effective
+    - Special cases and edge cases
 
 ## Tips and Tricks
 - GitHub Flow
