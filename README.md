@@ -74,6 +74,13 @@ Problem-Solving Workflow
     - Special cases and edge cases
 
 ## Tips and Tricks
+
+### Communication
+### Consistency
+### Focus
+### Learning
+### Stress Management
+
 - GitHub Flow
 - Getting Things Done
 - Focusing
